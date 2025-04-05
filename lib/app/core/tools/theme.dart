@@ -9,4 +9,6 @@ class StaticColors {
   static const yellowColor = Color(0xffF1A501);
   static const greyTextColor = Color(0xff686D77);
   static const sectionHeadingColor = Color(0xff14183E);
+  static const catTextColor = Color(0xff1E1D4C);
+  static const catTextSecColor = Color(0xff959BAA);
 }
